@@ -108,7 +108,7 @@
 |38|What Is Data Science|book|Mike Loukides |
 
 
-### 5. Download [Machine Learning]() resources
+### 5. Download [Machine Learning](https://drive.google.com/drive/folders/1I0U6OuVUnBWC4AezZYoA3wkttBOH0LZh?usp=sharing) resources
 
 
 ||Name|Type|authors|
