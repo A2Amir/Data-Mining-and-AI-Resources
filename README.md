@@ -1,6 +1,6 @@
 # Data-Mining-and-AI-Resources
 
-Download [Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
+### 1. Download [Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
 
 
 ||Name|Type|authors|
@@ -17,7 +17,7 @@ Download [Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1
 |10|Big Data, new epistemologies and paradigm shifts|paper|Rob Kitchin |
 
 
-Download [Data Engineering](https://drive.google.com/drive/folders/1s38o9RN-Uxv91-FiYW1fEAEKRZvvkV0N?usp=sharing) resources
+### 2. Download [Data Engineering](https://drive.google.com/drive/folders/1s38o9RN-Uxv91-FiYW1fEAEKRZvvkV0N?usp=sharing) resources
 
 
 ||Name|Type|authors|
@@ -25,12 +25,7 @@ Download [Data Engineering](https://drive.google.com/drive/folders/1s38o9RN-Uxv9
 |1|Graph Databases|book|Ian Robinson, Jim Webber & Emil Eifrem|
 
 
-
-
-
-
-
-Download [Data Mining](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfReO3HuSPsWsy7Urd?usp=sharing) resources
+### 3. Download [Data Mining](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfReO3HuSPsWsy7Urd?usp=sharing) resources
 
 
 
@@ -68,8 +63,7 @@ Download [Data Mining](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfR
 |30|Visual Data Mining|book|Russell K. Anderson|
 |31|DATA MINING WITH DECISION TREES|book|Lior Rokach, |
 
-Download Data Science resources
-
+### 4. Download [Data Science]() resources
 
 
 ||Name|Type|authors|
@@ -114,7 +108,7 @@ Download Data Science resources
 |38|What Is Data Science|book|Mike Loukides |
 
 
-Download Deep Learning resources
+### 5. Download [Machine Learning]() resources
 
 
 ||Name|Type|authors|
@@ -174,14 +168,7 @@ Download Deep Learning resources
 
 
 
-
-
-
-
-
-
-
-Download MachineLearning resources
+### 6. Download [Deep Learning]() resources
 
 
 ||Name|Type|authors|
