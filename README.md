@@ -63,7 +63,7 @@
 |30|Visual Data Mining|book|Russell K. Anderson|
 |31|DATA MINING WITH DECISION TREES|book|Lior Rokach, |
 
-### 4. Download [Data Science]() resources
+### 4. Download [Data Science](https://drive.google.com/drive/folders/1IWcoC8yJjae8NC79VUKpsf3xToHqWAmI?usp=sharing) resources
 
 
 ||Name|Type|authors|
