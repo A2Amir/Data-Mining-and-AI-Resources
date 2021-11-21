@@ -1,6 +1,6 @@
 # Data-Mining-and-AI-Resources
 
-### 1. Download [Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
+### 1. Download [Big Data](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing) Resources
 
 
 ||Name|Type|authors|
@@ -164,8 +164,6 @@
 |49|Statistics for Machine Learning|book|Pratap Dangeti|
 |50|Statistics, Data Mining, and Machine Learning in Astronomy|book|David N. Spergel|
 |51|Test-Driven Machine Learning |book|Justin Bozonier|
-
-
 
 
 ### 6. Download [Deep Learning]() resources
