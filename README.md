@@ -166,7 +166,7 @@
 |51|Test-Driven Machine Learning |book|Justin Bozonier|
 
 
-### 6. Download [Deep Learning]() resources
+### 6. Download [Deep Learning](https://drive.google.com/drive/folders/1R8aRMGwhHyiDfP3zoxjyZNyoNnOhopDW?usp=sharing) resources
 
 
 ||Name|Type|authors|
