@@ -1,7 +1,7 @@
 # Data-Mining-and-AI-Resources
 
 
-[Downlaod Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
+[Downlaod Big Data Resources](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
 
 
 ||Name|Type|authors|
