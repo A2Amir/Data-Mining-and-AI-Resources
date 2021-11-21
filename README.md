@@ -1,5 +1,7 @@
 # Data-Mining-and-AI-Resources
-[Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
+
+
+[Downlaod Big Data Resources:](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing)
 
 
 ||Name|Type|authors|
@@ -16,7 +18,7 @@
 |10|Big Data, new epistemologies and paradigm shifts|paper|Rob Kitchin |
 
 
-[Data Engineering](https://drive.google.com/drive/folders/1s38o9RN-Uxv91-FiYW1fEAEKRZvvkV0N?usp=sharing)
+[Downlaod Data Engineering resources](https://drive.google.com/drive/folders/1s38o9RN-Uxv91-FiYW1fEAEKRZvvkV0N?usp=sharing)
 
 
 ||Name|Type|authors|
@@ -29,7 +31,7 @@
 
 
 
-[Data Mining](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfReO3HuSPsWsy7Urd?usp=sharing)
+[Downlaod Data Mining resources](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfReO3HuSPsWsy7Urd?usp=sharing)
 
 
 
