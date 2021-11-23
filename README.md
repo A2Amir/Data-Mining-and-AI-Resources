@@ -238,9 +238,9 @@
 
 <details>
 
-### 6. Download [Tensorflow](https://drive.google.com/drive/folders/1R8aRMGwhHyiDfP3zoxjyZNyoNnOhopDW?usp=sharing) resources
+### 6. Download [Tensorflow](https://drive.google.com/drive/folders/1PQpB99jwGvv_MHhLg1ntxEPr8S1ELSKI?usp=sharing) resources
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Deep Learning Resources</a>    
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Tensorflow Resources</a>    
 </summary>
 
 
