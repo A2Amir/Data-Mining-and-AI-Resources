@@ -2,8 +2,13 @@
 
 # [Data-Mining-and-AI-Resources](https://drive.google.com/drive/folders/1xkKmjToLA5TojE860-cfsoVH_m3Av6mp?usp=sharing)
 
-### 1. Download [Big Data](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing) Resources
 
+<details>
+
+### 1. Download [Big Data](https://drive.google.com/drive/folders/1BeNg7S9k1zkIENq-TOSTw-RXAxcr45Ak?usp=sharing) Resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Big Data Resources</a>    
+</summary>
 
 ||Name|Type|authors|
 | :- | :- | :- | :- |
@@ -19,7 +24,16 @@
 |10|Big Data, new epistemologies and paradigm shifts|paper|Rob Kitchin |
 
 
+</details>
+
+
+
+<details>
+
 ### 2. Download [Data Engineering](https://drive.google.com/drive/folders/1s38o9RN-Uxv91-FiYW1fEAEKRZvvkV0N?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Data Engineering Resources</a>    
+</summary>
 
 
 ||Name|Type|authors|
@@ -27,7 +41,18 @@
 |1|Graph Databases|book|Ian Robinson, Jim Webber & Emil Eifrem|
 
 
+</details>
+
+
+
+<details>
+
 ### 3. Download [Data Mining](https://drive.google.com/drive/folders/1PAfO-PnOQdLAuosfReO3HuSPsWsy7Urd?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Data Mining Resources</a>    
+</summary>
+
+
 
 
 
@@ -64,6 +89,15 @@
 |29|Transparent Data Mining for Big and Small Data|book|Tania Cerquitelli • Daniele Quercia • Frank Pasquale Editors|
 |30|Visual Data Mining|book|Russell K. Anderson|
 |31|DATA MINING WITH DECISION TREES|book|Lior Rokach, |
+
+
+</details>
+
+
+
+
+
+
 
 ### 4. Download [Data Science](https://drive.google.com/drive/folders/1IWcoC8yJjae8NC79VUKpsf3xToHqWAmI?usp=sharing) resources
 
