@@ -236,6 +236,33 @@
 ---------------------------------------------------
 
 
+<details>
+
+### 6. Download [Tensorflow](https://drive.google.com/drive/folders/1R8aRMGwhHyiDfP3zoxjyZNyoNnOhopDW?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Deep Learning Resources</a>    
+</summary>
+
+
+||Name|Type|authors|
+| :- | :- | :- | :- |
+|1|Building Machine Learning Projects with TensorFlow|book|Rodolfo Bonnin|
+|2|Deep Learning with TensorFlow|book|Giancarlo Zaccone, Md. Rezaul Karim, Ahmed Menshawy|
+|3|Getting Started with TensorFlow|book|Giancarlo Zaccone|
+|4|Hands-On Deep Learning with TensorFlow|book|Dan Van Boxel|
+|5|Learning Neural Networks with Tensorflow|course|video|
+|6|Learning TensorFlow, A Guide to Building Deep Learning Systems|book|Tom Hope, Yehezkel S. Reshe, and Itay Lieder|
+|7|Tensorflow Deep Learning Solutions for Images|course|video|
+|7|TensorFlow for Deep Learning|book|Reza Bosagh Zadeh, Bharath Ramsundar|
+|7|TensorFlow for Machine Intelligence|book|Sam Abrahams,Danijar Hafner,Erik Erwitt,Ariel Scarpinelli|
+
+
+</details>
+
+---------------------------------------------------
+
+
+
 
 
 
