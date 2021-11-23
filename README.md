@@ -155,8 +155,6 @@
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Machine Learning Resources</a>    
 </summary>
 
-
-
 ||Name|Type|authors|
 | :- | :- | :- | :- |
 |1|A FIRST COURSE IN MACHINE LEARNING|book|Simon Rogers, Mark Girolami|
@@ -216,11 +214,12 @@
 
 ---------------------------------------------------
 
-
-
-
+<details>
 
 ### 6. Download [Deep Learning](https://drive.google.com/drive/folders/1R8aRMGwhHyiDfP3zoxjyZNyoNnOhopDW?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Deep Learning Resources</a>    
+</summary>
 
 
 ||Name|Type|authors|
@@ -230,6 +229,14 @@
 |3|Deep Learning for Computer Architects|book|Margaret Martonosi|
 |4|Deep Learning|book|Ian Goodfellow Yoshua Bengio Aaron Courville |
 |5|Deep Learning|book|Josh Patterson & Adam Gibson|
+
+
+</details>
+
+---------------------------------------------------
+
+
+
 
 
 
