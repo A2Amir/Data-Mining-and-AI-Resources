@@ -26,7 +26,7 @@
 
 </details>
 
-
+---------------------------------------------------
 
 <details>
 
@@ -43,6 +43,7 @@
 
 </details>
 
+---------------------------------------------------
 
 
 <details>
@@ -51,10 +52,6 @@
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Data Mining Resources</a>    
 </summary>
-
-
-
-
 
 ||Name|Type|authors|
 | :- | :- | :- | :- |
@@ -93,13 +90,15 @@
 
 </details>
 
+---------------------------------------------------
 
-
-
-
-
+<details>
 
 ### 4. Download [Data Science](https://drive.google.com/drive/folders/1IWcoC8yJjae8NC79VUKpsf3xToHqWAmI?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Data Science Resources</a>    
+</summary>
+
 
 
 ||Name|Type|authors|
@@ -144,7 +143,18 @@
 |38|What Is Data Science|book|Mike Loukides |
 
 
+
+</details>
+
+---------------------------------------------------
+
+<details>
+
 ### 5. Download [Machine Learning](https://drive.google.com/drive/folders/1I0U6OuVUnBWC4AezZYoA3wkttBOH0LZh?usp=sharing) resources
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Machine Learning Resources</a>    
+</summary>
+
 
 
 ||Name|Type|authors|
@@ -200,6 +210,14 @@
 |49|Statistics for Machine Learning|book|Pratap Dangeti|
 |50|Statistics, Data Mining, and Machine Learning in Astronomy|book|David N. Spergel|
 |51|Test-Driven Machine Learning |book|Justin Bozonier|
+
+
+</details>
+
+---------------------------------------------------
+
+
+
 
 
 ### 6. Download [Deep Learning](https://drive.google.com/drive/folders/1R8aRMGwhHyiDfP3zoxjyZNyoNnOhopDW?usp=sharing) resources
